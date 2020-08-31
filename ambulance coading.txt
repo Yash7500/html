@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<body>
+<h1>The Mobile AMBULANCE-EMRI 108</h1>
+<table border="1">
+	<tr>
+	<th>Special Equipments</th>
+	<th colspan=2>Specification/Performance</th>
+	</tr>
+
+	<tr>
+	<td>Retracable protection armour</td>
+	<td>Engine Type</td>
+	<td>Jet Turbine</td>
+	</tr>
+
+	<tr>
+	<td>Weapons System</td>
+	<td>Thrust</td>
+	<td>150lbs@<br>
+	    103%ROS
+	</tr>
+
+	<tr>
+	<td>Instruments-Aircraft</td>
+	<td>Torque</td>
+	<td>175lbs@<br>
+	    98.7%ROS
+	</tr>
+
+	<tr>
+	<td rowspan=9><img src="ambulance.jpg" width="300" height="300"></td>
+	<td>0-60MPH></td>
+	<td>3.7sec
+	</tr>
+
+	<tr>
+	<td>Top Speed</td>
+	<td>Unknown</td>
+	</tr>
+
+	<tr>
+	<td>Break rate</td>
+	<td>Excellent</td>
+	</tr>
+
+	<tr>
+	<td>Wheel base</td>
+	<td>141.12in</td>
+	</tr>
+
+	<tr>
+	<td>Length</td>
+	<td>300</td>
+	</tr>
+
+	
+	<tr>
+	<td>Length</td>
+	<td>300</td>
+	</tr>
+
+	
+	<tr>
+	<td>Length</td>
+	<td>300</td>
+	</tr>
+
+	
+	<tr>
+	<td>Length</td>
+	<td>300</td>
+	</tr>
+
+	
+	<tr>
+	<td>Length</td>
+	<td>300</td>
+	</tr>
+
+</body>
+</html>	
