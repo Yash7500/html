@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function show()
+{
+var a,b,c,s;
+a=Prompt(document.getElementById("A").innerHTML);
+b=Prompt(document.getElementById("B").innerHTML);
+c=Prompt(document.getElementById("C").innerHTML);
+document.getElementById("s").value=a + b + c;
+}
+</script>
+</head>
+<body>
+
+Enter the first Name:<input id="A"><br>
+Enter the Middle Name:<input id="B"><br>
+Enter the Last Name:<input id="C"><br>
+<button onclick="show()">Name</button>
+<input id="s">
+
+</body>
+</html>

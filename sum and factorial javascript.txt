@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function add()
+{
+var a,b,c;
+a=Number(document.getElementById("A").value);
+b=Number(document.getElementById("B").value);
+c=a+b;
+document.getElementById("sum").value=c;
+}
+function fact()
+{
+var n,f=1;
+n=Number(document.getElementById("N").value);
+for(i=1;i<=n;i++)
+{
+ f=f*i;
+ }
+ document.getElementById("fact").value=f;
+}
+
+</script>
+</head>
+<body>
+Enter the value of a:<input id="A"><br>
+Enter the value of b:<input id="B"><br>
+Enter the value of n:<input id="N"><br>
+<button onclick="add()">Sum</button>
+<input id="sum"><br>
+<button onclick="fact()">Factorial</button>
+<input id="fact">
+</body>
+</html>
